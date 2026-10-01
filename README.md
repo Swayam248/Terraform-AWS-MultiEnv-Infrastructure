@@ -41,18 +41,6 @@ The project includes:
 * IMDSv2 configuration
 * GitHub Actions CI
 
-The project intentionally avoids unnecessary complexity such as:
-
-* ECS
-* EKS
-* RDS
-* Load Balancers
-* NAT Gateways
-* Complex multi-tier networking
-* Large deployment pipelines
-
-The goal is to demonstrate **strong Terraform fundamentals and practical AWS knowledge** without making the project unnecessarily large.
-
 ---
 
 # 2. What We Are Building
